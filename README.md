@@ -1,4 +1,4 @@
-# 2D Physics-Based Slingshot Game (Angry Birds Clone)
+# 2D Angry Birds Clone
 
 This is a 2D physics-based game inspired by *Angry Birds*. I built this project in Unity to learn more about game physics, object interactions, and game flow using C#.
 
